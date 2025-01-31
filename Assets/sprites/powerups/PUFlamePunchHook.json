@@ -1,0 +1,58 @@
+{ "frames": {
+   "PUFlamePunchHook 0.aseprite": {
+    "frame": { "x": 11, "y": 8, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1, "h": 1 },
+    "sourceSize": { "w": 32, "h": 50 },
+    "duration": 100
+   },
+   "PUFlamePunchHook 1.aseprite": {
+    "frame": { "x": 17, "y": 0, "w": 5, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 9, "w": 5, "h": 8 },
+    "sourceSize": { "w": 32, "h": 50 },
+    "duration": 100
+   },
+   "PUFlamePunchHook 2.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 11, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 9, "w": 11, "h": 10 },
+    "sourceSize": { "w": 32, "h": 50 },
+    "duration": 100
+   },
+   "PUFlamePunchHook 3.aseprite": {
+    "frame": { "x": 11, "y": 0, "w": 6, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 22, "y": 10, "w": 6, "h": 8 },
+    "sourceSize": { "w": 32, "h": 50 },
+    "duration": 100
+   },
+   "PUFlamePunchHook 4.aseprite": {
+    "frame": { "x": 11, "y": 8, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1, "h": 1 },
+    "sourceSize": { "w": 32, "h": 50 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.11-dev",
+  "image": "PUFlamePunchHook.png",
+  "format": "RGBA8888",
+  "size": { "w": 22, "h": 10 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 3", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,90 @@
+{ "frames": {
+   "PUJabLifeSteal 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 32, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 50 },
+    "sourceSize": { "w": 32, "h": 50 },
+    "duration": 100
+   },
+   "PUJabLifeSteal 1.aseprite": {
+    "frame": { "x": 32, "y": 0, "w": 32, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 50 },
+    "sourceSize": { "w": 32, "h": 50 },
+    "duration": 100
+   },
+   "PUJabLifeSteal 2.aseprite": {
+    "frame": { "x": 64, "y": 0, "w": 32, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 50 },
+    "sourceSize": { "w": 32, "h": 50 },
+    "duration": 100
+   },
+   "PUJabLifeSteal 3.aseprite": {
+    "frame": { "x": 96, "y": 0, "w": 32, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 50 },
+    "sourceSize": { "w": 32, "h": 50 },
+    "duration": 100
+   },
+   "PUJabLifeSteal 4.aseprite": {
+    "frame": { "x": 128, "y": 0, "w": 32, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 50 },
+    "sourceSize": { "w": 32, "h": 50 },
+    "duration": 100
+   },
+   "PUJabLifeSteal 5.aseprite": {
+    "frame": { "x": 160, "y": 0, "w": 32, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 50 },
+    "sourceSize": { "w": 32, "h": 50 },
+    "duration": 100
+   },
+   "PUJabLifeSteal 6.aseprite": {
+    "frame": { "x": 192, "y": 0, "w": 32, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 50 },
+    "sourceSize": { "w": 32, "h": 50 },
+    "duration": 100
+   },
+   "PUJabLifeSteal 7.aseprite": {
+    "frame": { "x": 224, "y": 0, "w": 32, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 50 },
+    "sourceSize": { "w": 32, "h": 50 },
+    "duration": 100
+   },
+   "PUJabLifeSteal 8.aseprite": {
+    "frame": { "x": 256, "y": 0, "w": 32, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 50 },
+    "sourceSize": { "w": 32, "h": 50 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.11-dev",
+  "image": "PUJabLifeSteal.png",
+  "format": "RGBA8888",
+  "size": { "w": 288, "h": 50 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "health grab", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
