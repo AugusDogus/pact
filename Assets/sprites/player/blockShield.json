@@ -1,0 +1,106 @@
+{ "frames": {
+   "blockShield 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 6, "h": 7 },
+    "sourceSize": { "w": 6, "h": 7 },
+    "duration": 100
+   },
+   "blockShield 1.aseprite": {
+    "frame": { "x": 6, "y": 0, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 6, "h": 7 },
+    "sourceSize": { "w": 6, "h": 7 },
+    "duration": 100
+   },
+   "blockShield 2.aseprite": {
+    "frame": { "x": 12, "y": 0, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 6, "h": 7 },
+    "sourceSize": { "w": 6, "h": 7 },
+    "duration": 100
+   },
+   "blockShield 3.aseprite": {
+    "frame": { "x": 18, "y": 0, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 6, "h": 7 },
+    "sourceSize": { "w": 6, "h": 7 },
+    "duration": 100
+   },
+   "blockShield 4.aseprite": {
+    "frame": { "x": 0, "y": 7, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 6, "h": 7 },
+    "sourceSize": { "w": 6, "h": 7 },
+    "duration": 100
+   },
+   "blockShield 5.aseprite": {
+    "frame": { "x": 6, "y": 7, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 6, "h": 7 },
+    "sourceSize": { "w": 6, "h": 7 },
+    "duration": 100
+   },
+   "blockShield 6.aseprite": {
+    "frame": { "x": 12, "y": 7, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 6, "h": 7 },
+    "sourceSize": { "w": 6, "h": 7 },
+    "duration": 100
+   },
+   "blockShield 7.aseprite": {
+    "frame": { "x": 18, "y": 7, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 6, "h": 7 },
+    "sourceSize": { "w": 6, "h": 7 },
+    "duration": 100
+   },
+   "blockShield 8.aseprite": {
+    "frame": { "x": 0, "y": 14, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 6, "h": 7 },
+    "sourceSize": { "w": 6, "h": 7 },
+    "duration": 100
+   },
+   "blockShield 9.aseprite": {
+    "frame": { "x": 6, "y": 14, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 6, "h": 7 },
+    "sourceSize": { "w": 6, "h": 7 },
+    "duration": 100
+   },
+   "blockShield 10.aseprite": {
+    "frame": { "x": 12, "y": 14, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 6, "h": 7 },
+    "sourceSize": { "w": 6, "h": 7 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.11-dev",
+  "image": "blockShield.png",
+  "format": "RGBA8888",
+  "size": { "w": 24, "h": 21 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
