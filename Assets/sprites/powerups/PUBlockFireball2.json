@@ -1,0 +1,74 @@
+{ "frames": {
+   "PUBlockFireball 0.aseprite": {
+    "frame": { "x": 10, "y": 22, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1, "h": 1 },
+    "sourceSize": { "w": 40, "h": 50 },
+    "duration": 100
+   },
+   "PUBlockFireball 1.aseprite": {
+    "frame": { "x": 0, "y": 22, "w": 10, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 10, "w": 10, "h": 10 },
+    "sourceSize": { "w": 40, "h": 50 },
+    "duration": 100
+   },
+   "PUBlockFireball 2.aseprite": {
+    "frame": { "x": 18, "y": 0, "w": 18, "h": 19 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 6, "w": 18, "h": 19 },
+    "sourceSize": { "w": 40, "h": 50 },
+    "duration": 100
+   },
+   "PUBlockFireball 3.aseprite": {
+    "frame": { "x": 18, "y": 19, "w": 18, "h": 19 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 6, "w": 18, "h": 19 },
+    "sourceSize": { "w": 40, "h": 50 },
+    "duration": 100
+   },
+   "PUBlockFireball 4.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 18, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 4, "w": 18, "h": 22 },
+    "sourceSize": { "w": 40, "h": 50 },
+    "duration": 100
+   },
+   "PUBlockFireball 5.aseprite": {
+    "frame": { "x": 18, "y": 0, "w": 18, "h": 19 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 6, "w": 18, "h": 19 },
+    "sourceSize": { "w": 40, "h": 50 },
+    "duration": 100
+   },
+   "PUBlockFireball 6.aseprite": {
+    "frame": { "x": 0, "y": 22, "w": 10, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 10, "w": 10, "h": 10 },
+    "sourceSize": { "w": 40, "h": 50 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.11-dev",
+  "image": "PUBlockFireball2.png",
+  "format": "RGBA8888",
+  "size": { "w": 36, "h": 38 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "powerUp", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
